@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class Main extends HidingInfo {
+public class Main {
 
+	
 	public static void main(String[] args) {
 
 		Check check = new Check();

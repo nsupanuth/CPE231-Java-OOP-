@@ -1,5 +1,4 @@
 
-
 public class Check extends Day {
 	
 	final int rd = 1;
